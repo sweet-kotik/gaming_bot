@@ -2,12 +2,12 @@ import interactions
 from interactions import *
 from random import shuffle
 import sqlite3
-from config import Config, load_config
-
-config: Config = load_config()
 
 
-TOKEN: str = config.tg_bot.token
+
+
+
+TOKEN = 'MTEyMjkxNDQ5OTc4ODI3NTg0Mg.GvC0NY.8QRxCOWiUBVJFbNEjFEVNEL9FVaSHj01VDfcMA'
 
 bot = interactions.Client(token=TOKEN)
 
