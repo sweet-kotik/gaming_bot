@@ -7,7 +7,7 @@ import sqlite3
 
 
 
-TOKEN = 'MTEyMjkxNDQ5OTc4ODI3NTg0Mg.GvC0NY.8QRxCOWiUBVJFbNEjFEVNEL9FVaSHj01VDfcMA'
+TOKEN = 'MTEyMjkxNDQ5OTc4ODI3NTg0Mg.G45-6b.wcSr2X6uvBuADuGY0c-ikMPZPv6pM-ri3hESA4'
 
 bot = interactions.Client(token=TOKEN)
 
